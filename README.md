@@ -7,8 +7,7 @@ To analyze customer purchase behavior using retail transaction data and uncover 
 ---
 
 ## 🛠️ Tools Used
-- **Python** 🐍
-- **Pandas** – for data manipulation
+- **Python** 
 - **Matplotlib & Seaborn** – for visual storytelling
 - **Google Colab** – as the development environment
 
@@ -30,13 +29,6 @@ To analyze customer purchase behavior using retail transaction data and uncover 
 
 ### 5. Age vs. Purchase Amount
 > Peak spending is seen in **middle-aged groups (35–45)**. Younger users mostly make low to mid-tier purchases.
-
----
-
-## 📁 Files Included
-- `retails_data.csv` – raw customer purchase data  
-- `retail_analysis.ipynb` – code notebook with all visualizations  
-- `retail_analysis.pdf` – export of notebook for easy review  
 
 ---
 
